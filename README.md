@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Saumya Rajan!
 
-A Android developer from [India][about-India]. I currently work with engineering team at [ScoopWhoop][scoopwhoop]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+An Android developer from [India][about-India]. I currently work with engineering team at [ScoopWhoop][scoopwhoop]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
