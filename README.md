@@ -29,6 +29,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/shufflefurtherparrot.gif" width="30" height="30"/>
 </div>
