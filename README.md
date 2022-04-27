@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Saumya Rajan!
 
+A Android developer from [India][about-India]. I currently work with engineering team at [ScoopWhoop][scoopwhoop]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
@@ -30,3 +32,11 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="30" height="30"/>
 </div>
+
+[twitter]: https://twitter.com/SAUMYARAJAN3
+[twitch]: https://www.twitch.tv/peanutbutt3r
+[reddit]: https://www.reddit.com/user/mr_peanutbutt3r
+[github]: https://github.com/rajansaumya
+[instagram]: https://www.instagram.com/mr.pb.living/
+[scoopwhoop]: https://www.scoopwhoop.com/
+[about-india]: https://www.google.com/search?q=India
