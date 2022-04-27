@@ -4,9 +4,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/invisibleparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/cryptoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/sovjetparrot.gif" width="30" height="30"/>
