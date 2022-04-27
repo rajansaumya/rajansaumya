@@ -38,5 +38,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 [reddit]: https://www.reddit.com/user/mr_peanutbutt3r
 [github]: https://github.com/rajansaumya
 [instagram]: https://www.instagram.com/mr.pb.living/
+[discord]: https://discord.io/mrpeanutbutt3r
 [scoopwhoop]: https://www.scoopwhoop.com/
 [about-india]: https://www.google.com/search?q=India
