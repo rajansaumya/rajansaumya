@@ -40,4 +40,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 [instagram]: https://www.instagram.com/mr.pb.living/
 [discord]: https://discord.io/mrpeanutbutt3r
 [scoopwhoop]: https://www.scoopwhoop.com/
+[myglamm]: https://www.myglamm.com/
+[archive]: https://archiveautomation.com/
 [about-india]: https://www.google.com/search?q=India
