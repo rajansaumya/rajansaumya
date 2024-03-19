@@ -7,9 +7,9 @@ Solutions Architect @ [Archive Automation][archive] | Multi-Stack Developer (Nod
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saumyarajan3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/1000px-X_logo_2023_%28white%29.png" alt="saumyarajan3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saumya-rajan-ba218b186/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/saumya-rajan-ba218b186/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10288375/saumya-rajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10288375/saumya-rajan" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mr.pb.living/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.pb.living/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saumya-rajan-ba218b186/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/saumya-rajan-ba218b186/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10288375/saumya-rajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10288375/saumya-rajan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr.pb.living/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.pb.living/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.io/mrpeanutbutt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/mrpeanutbutt3r" height="30" width="40" /></a>
 </p>
 
@@ -23,7 +23,7 @@ Solutions Architect @ [Archive Automation][archive] | Multi-Stack Developer (Nod
 <h3 align="left">Support:</h3>
 <p align="left">
 <a href="https://www.youtube.com/watch?v=b3rNUhDqciM&ab_channel=FunStuff" target="_blank" rel="noreferrer"> <img src="https://i.kym-cdn.com/entries/icons/original/000/048/516/Screenshot_2024-02-20_at_10.43.43_AM.jpg" alt="sad_hamster" width="210" height="210"/> </a> 
-<p align="left"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/rajansaumya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rajansaumya" /></a></p><br><br>
+<p align="left"><a href="https://www.buymeacoffee.com/rajansaumya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rajansaumya" /></a></p><br><br>
 
 
 <br>
