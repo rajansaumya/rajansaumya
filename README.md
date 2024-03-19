@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Saumya Rajan!
 
-An Android developer from [India][about-India]. I currently work with engineering team at [ScoopWhoop][scoopwhoop]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+Solutions Architect @ [Archive Automation][archive] | Multi-Stack Developer (Node.JS, React, iOS, Android) from [India][about-India]. Previously worked with [ScoopWhoop][scoopwhoop],[MyGlamm][myglamm]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
