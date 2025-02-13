@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Saumya Rajan!
 
-Solutions Architect @ [Archive Automation][archive] | Multi-Stack Developer (Node.JS, React, iOS, Android) from [India][about-India]. Previously worked with [ScoopWhoop][scoopwhoop],[MyGlamm][myglamm]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+Solutions Architect @ [Cognidrive Technologies][cognidrive] | Multi-Stack Developer (Node.JS, React, iOS, Android) from [India][about-India]. Previously worked with [ScoopWhoop][scoopwhoop],[MyGlamm][myglamm]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
 <p align="left"> <a href="https://twitter.com/saumyarajan3" target="blank"><img src="https://img.shields.io/twitter/follow/saumyarajan3?logo=twitter&style=for-the-badge" alt="saumyarajan3" /></a> </p>
 
@@ -66,5 +66,5 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 [discord]: https://discord.io/mrpeanutbutt3r
 [scoopwhoop]: https://www.scoopwhoop.com/
 [myglamm]: https://www.myglamm.com/
-[archive]: https://archiveautomation.com/
+[cognidrive]: https://cognidrivetechnologies.com/
 [about-india]: https://www.google.com/search?q=India
