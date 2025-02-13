@@ -1,10 +1,23 @@
 ## Hey 👋, I'm Saumya Rajan!
 
-Solutions Architect @ [Cognidrive Technologies][cognidrive] | Multi-Stack Developer (Node.JS, React, iOS, Android) from [India][about-India]. Previously worked with [ScoopWhoop][scoopwhoop],[MyGlamm][myglamm]. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+🚀 **Solutions Architect @ [Cognidrive Technologies][cognidrive]** | Multi-Stack Developer (Node.js, React, iOS, Android) from **[India][about-India]**
 
-<p align="left"> <a href="https://twitter.com/saumyarajan3" target="blank"><img src="https://img.shields.io/twitter/follow/saumyarajan3?logo=twitter&style=for-the-badge" alt="saumyarajan3" /></a> </p>
+Previously worked with **[ScoopWhoop][scoopwhoop]** & **[MyGlamm][myglamm]**. Passionate about building scalable applications, open-source contributions, and discussing new product ideas.
 
-<h3 align="left">Connect with me:</h3>
+💬 Reach out to me on [Twitter][twitter] if you'd like to talk tech!
+
+---
+### 📈 NPM Open-Source Contributions
+
+- **[node-red-contrib-google-sheets-advance](https://www.npmjs.com/package/node-red-contrib-google-sheets-advance)**  
+ 
+<img src="https://img.shields.io/npm/dw/node-red-contrib-google-sheets-advance?style=for-the-badge&color=blue" alt="NPM Weekly Downloads"/>
+
+> A powerful Node-RED node for integrating with Google Sheets, used by developers globally!
+
+---
+### 🌎 Connect with me
+
 <p align="left">
 <a href="https://twitter.com/saumyarajan3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/1000px-X_logo_2023_%28white%29.png" alt="saumyarajan3" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saumya-rajan-ba218b186/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/saumya-rajan-ba218b186/" height="30" width="40" /></a>
@@ -13,18 +26,22 @@ Solutions Architect @ [Cognidrive Technologies][cognidrive] | Multi-Stack Develo
 <a href="https://discord.gg/https://discord.io/mrpeanutbutt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/mrpeanutbutt3r" height="30" width="40" /></a>
 </p>
 
+---
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajansaumya&show_icons=true&locale=en&layout=compact" alt="rajansaumya" /></p>
+---
+### 📊 GitHub Stats
 
-<br><br><br><br><br><br>
-<h3 align="left">Support:</h3>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansaumya&layout=compact&theme=tokyonight)
+
+---
+### ☕ Support My Work
+
 <p align="left">
 <a href="https://www.youtube.com/watch?v=b3rNUhDqciM&ab_channel=FunStuff" target="_blank" rel="noreferrer"> <img src="https://i.kym-cdn.com/entries/icons/original/000/048/516/Screenshot_2024-02-20_at_10.43.43_AM.jpg" alt="sad_hamster" width="210" height="210"/> </a> 
 <p align="left"><a href="https://www.buymeacoffee.com/rajansaumya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rajansaumya" /></a></p><br><br>
-
 
 <br>
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
